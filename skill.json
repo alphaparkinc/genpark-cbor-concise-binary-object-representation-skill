@@ -1,0 +1,17 @@
+{
+  "name": "genpark-cbor-concise-binary-object-representation-skill",
+  "version": "1.0.0",
+  "description": "Concise Binary Object Representation (CBOR - RFC 8949) codec supporting compact self-describing binary encoding for lightweight agent messages.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "cbor",
+    "rfc8949",
+    "concise-binary",
+    "iot",
+    "compact-serialization"
+  ],
+  "dependencies": []
+}
